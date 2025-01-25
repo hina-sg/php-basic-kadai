@@ -12,7 +12,8 @@
     $score10 = 60;
 
     $sum = 80 + 60 + 55 + 40 + 100 + 25 + 80 + 95 + 30 + 60;
+    $average = $sum/10;
 
-    echo $sum/10;
+    echo $average
     ?>
 
